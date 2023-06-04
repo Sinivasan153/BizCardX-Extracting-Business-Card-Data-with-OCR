@@ -14,11 +14,11 @@ Once EasyOCR is installed, only one import statement is required to import the p
 
 From there, all you need is two lines of code to perform OCR — one to initialize the Reader class and then another to OCR the image via the readtext function.
 
-Project Overview
+**Project Overview**
 
 BizCardX is a user-friendly tool for extracting information from business cards. The tool uses OCR technology to recognize text on business cards and extracts the data into a SQL database after classification using regular expressions. Users can access the extracted information using a GUI built using streamlit. The BizCardX application is a simple and intuitive user interface that guides users through the process of uploading the business card image and extracting its information. The extracted information would be displayed in a clean and organized manner, and users would be able to easily add it to the database with the click of a button. Further the data stored in database can be easily Read, updated and deleted by user as per the requirement.
 
-Want to see demo video of my project? -
+**Want to see demo video of my project? -**
 
 Libraries/Modules used for the project!
 
@@ -30,7 +30,7 @@ Streamlit - (To Create Graphical user Interface)
 
 EasyOCR - (To extract text from images)
 
-Workflow
+**Workflow**
 
 To get started with BizCardX Data Extraction, follow the steps below:
 
